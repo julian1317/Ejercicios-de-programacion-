@@ -7,3 +7,6 @@ El problema tendrá una cantidad "n" de casos a evaluar. Por cada caso "n", se d
 correspondiente que cumpla con las anteriores reglas.
 
 consumo de recursos:
+
+Tiempo empleado:
+2 horas: 20 minutos de analisis, 20 minutos de codificación y 1:20 de solución de bugs y corrección  
