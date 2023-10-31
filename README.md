@@ -18,3 +18,12 @@ En este problema se nos pide que a partir de una entrada de un número "k", demo
 Consumo de recursos:
 
 Tiempo empleado: 2 horas: 20 minutos de analisis, 20 minutos de codificación y 1:20 de solución de bugs y corrección
+
+## Dalton teacher 
+estructuración del codigo:
+En el programa nos piden recibir un numero T de entradas totales para cada entrada T debemos recibir un número n de estudiantes cada estudiante estara ordenado de 1 a n, para cada estudiante se tiene una silla esta estara dada en un array [0,1,2,3...n] en el orden que le toque al estudiante y sera una permutacion de la cantidad de estudiantes, este array puede estar en desorden, lo que realizara el programa es contar la cantidad de veces que se debe intercambiar la silla(2 estudiantes cada vez) hasta lograr que la silla en la que este sentada cada estudiante sea diferente de el numero del estudiante 
+
+Consumo de recursos:
+
+Tiempo empleado: 1 hora: 30 minutos de analisis, 30 minutos de solucion
+
